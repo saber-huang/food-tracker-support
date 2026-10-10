@@ -1,7 +1,7 @@
-# Food Log App · 饮食记录 App
+# Kindbite · 一拍即食
 
-Support pages and privacy policy for the Food Log App, published with GitHub Pages.
-这个仓库只放饮食记录 App 的支持网页和隐私政策，用 GitHub Pages 发布：
+Support pages and privacy policy for Kindbite, published with GitHub Pages.
+这个仓库只放一拍即食 App 的支持网页和隐私政策，用 GitHub Pages 发布：
 
 - Support: https://saber-huang.github.io/food-tracker-support/en.html
 - Privacy Policy: https://saber-huang.github.io/food-tracker-support/privacy-en.html
